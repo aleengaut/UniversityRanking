@@ -1,4 +1,6 @@
-# UniversityRanking
+# University Ranking
+
+University Ranking Analysis
 
 EVIKOR ranking method and Rankability for Universities.
 
