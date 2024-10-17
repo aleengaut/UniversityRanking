@@ -2,7 +2,7 @@
 
 EVIKOR ranking method and Rankability for Universities.
 
-Modelo KNIME Software.
+KNIME Software model (.knwf).
 
 Python module for measuring data rankability by dominance analysis and to generate rankings respecting dominance according to criteria-data.
 
